@@ -84,7 +84,7 @@ CREATE TABLE IF NOT EXISTS `register` (
 
 # Dumping data for table crawler1.register: 2 rows
 /*!40000 ALTER TABLE `register` DISABLE KEYS */;
-INSERT INTO `register` (`name`, `contactno`, `gender`, `emailid`, `city`, `password`) VALUES ('jitu', '8605067524', 'Male', 'pjitendra201290@gmail.com', 'Mumbai', '12345'), ('om', '8605067524', 'Male', 'admin@gmail.com', 'pune', '123456');
+INSERT INTO `register` (`name`, `contactno`, `gender`, `emailid`, `city`, `password`) VALUES ('jitu', '9652344851', 'Male', 'gyygua290@gmail.com', 'Mumbai', '12345'), ('om', '8605067524', 'Male', 'admin@gmail.com', 'pune', '123456');
 /*!40000 ALTER TABLE `register` ENABLE KEYS */;
 
 
